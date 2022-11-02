@@ -1932,12 +1932,10 @@
 220.0.0.0/8
 221.0.0.0/8
 222.0.0.0/8
-### block all African(AFRINIC) IPs
 41.0.0.0/8
 154.0.0.0/8
 197.0.0.0/8
 
-### block off RIPE - europe, africa, middle east
 62.0.0.0/8
 77.0.0.0/8
 78.0.0.0/8
@@ -1958,16 +1956,12 @@
 93.0.0.0/8
 94.0.0.0/8
 95.0.0.0/8
-
-### block all Latin America/LACNIC IPs
 186.0.0.0/8
 187.0.0.0/8
 189.0.0.0/8
 190.0.0.0/8
 200.0.0.0/8
 201.0.0.0/8
-
-### block all US mill and DOD, and private company registered Anets
 3.0.0.0/8
 6.0.0.0/8
 7.0.0.0/8
